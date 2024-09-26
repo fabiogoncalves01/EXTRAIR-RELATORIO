@@ -1,6 +1,4 @@
 
-
-```markdown
 # Automação de Relatórios com Selenium
 
 Este projeto automatiza o processo de geração e download de relatórios a partir de um sistema web específico, utilizando o Selenium WebDriver para controlar o navegador e interagir com a página.
